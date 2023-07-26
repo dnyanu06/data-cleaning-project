@@ -1,7 +1,5 @@
 # data-cleaning-project
 
-# data-cleaning
-
 It happens all the time: someone gives you data containing malformed strings, 
 Python, lists and missing data. How do you tidy it up so you can get on with the 
 analysis?Take this monstrosity as the DataFrame to use in the following puzzles:df = pd.DataFrame({'From_To': ['LoNDon_paris', 'MAdrid_miLAN', 'londON_StockhOlm'
